@@ -4,7 +4,7 @@
 2. Open terminal and run:
 
 ```commandline
-pip install -r requirements
+pip install -r requirements.txt
 ```
 3. Run:
 
