@@ -1,0 +1,227 @@
+{
+    "0": {
+        "name": "apple",
+        "serving_size": "1 cup, quartered or chopped(125g)",
+        "calories": "65",
+        "nutrition": [
+            ["Total Fat", "0.21g", "0%"],
+            ["Saturated Fat", "0.04g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.3mg", "0%"],
+            ["Total Carbohydrate", "17.3g", "6%"],
+            ["Dietary Fiber", "3g", "11%"],
+            ["Total Sugars", "13g", "26%"],
+            ["Protein", "0.33g", "1%"],
+            ["Vitamin C", "5.8mg", "6%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.15mg", "1%"],
+            ["Calcium", "7.5mg", "1%"],
+            ["Potassium", "133.8mg", "3%"],
+            ["Phosphorus", "12.8mg", "1%"]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
+    },
+    "1": {
+        "name": "banana",
+        "serving_size": "1 cup, sliced (150g)",
+        "calories": "134",
+        "nutrition": [
+            ["Total Fat", "0.5g", "1%"],
+            ["Saturated Fat", "0.17g", "1%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.5mg", "0%"],
+            ["Total Carbohydrate", "34.3g", "12%"],
+            ["Dietary Fiber", "3.9g", "14%"],
+            ["Total Sugars", "18.3g", "37%"],
+            ["Protein", "1.6g", "3%"],
+            ["Vitamin C", "13.1mg", "14%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.39mg", "2%"],
+            ["Calcium", "7.5mg", "1%"],
+            ["Potassium", "537mg", "11%"],
+            ["Phosphorus", "33mg", "1%"]
+        ]
+    },
+    "2": {
+        "name": "grapes",
+        "serving_size": "1 cup (92g)",
+        "calories": "62",
+        "nutrition": [
+            ["Total Fat", "0.32g", "0%"],
+            ["Saturated Fat", "0.1g", "1%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.8mg", "0%"],
+            ["Total Carbohydrate", "15.8g", "6%"],
+            ["Dietary Fiber", "0.83g", "3%"],
+            ["Total Sugars", "15g", "30%"],
+            ["Protein", "0.58g", "1%"],
+            ["Vitamin C", "3.7mg", "4%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.27mg", "1%"],
+            ["Calcium", "12.9mg", "1%"],
+            ["Potassium", "175.7mg", "4%"],
+            ["Phosphorus", "9.2mg", "1%"]
+        ]
+    },
+    "3": {
+        "name": "kiwi",
+        "serving_size": "1 cup, sliced (180g)",
+        "calories": "110",
+        "nutrition": [
+            ["Total Fat", "0.94g", "1%"],
+            ["Saturated Fat", "0.05g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "5.4mg", "0%"],
+            ["Total Carbohydrate", "26.4g", "10%"],
+            ["Dietary Fiber", "5.4g", "19%"],
+            ["Total Sugars", "16.2g", "32%"],
+            ["Protein", "2.1g", "4%"],
+            ["Vitamin C", "166.9mg", "185%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.56mg", "3%"],
+            ["Calcium", "61.2mg", "5%"],
+            ["Potassium", "561.6mg", "12%"],
+            ["Phosphorus", "61.2mg", "5%"]
+        ]
+    },
+    "4": {
+        "name": "mango",
+        "serving_size": "1 cup pieces (165g)",
+        "calories": "99",
+        "nutrition": [
+            ["Total Fat", "0.63g", "1%"],
+            ["Saturated Fat", "0.15g", "1%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.7mg", "0%"],
+            ["Total Carbohydrate", "24.7g", "9%"],
+            ["Dietary Fiber", "2.6g", "9%"],
+            ["Total Sugars", "22.5g", "45%"],
+            ["Protein", "1.4g", "3%"],
+            ["Vitamin C", "60.1mg", "67%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.26mg", "1%"],
+            ["Calcium", "18.2mg", "1%"],
+            ["Potassium", "277.2mg", "6%"],
+            ["Phosphorus", "23.1mg", "2%"]
+        ]
+    },
+    "5": {
+        "name": "orange",
+        "serving_size": "1 cup, sections (180g)",
+        "calories": "85",
+        "nutrition": [
+            ["Total Fat", "0.22g", "0%"],
+            ["Saturated Fat", "0.03g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "0mg", "0%"],
+            ["Total Carbohydrate", "21.2g", "8%"],
+            ["Dietary Fiber", "4.3g", "15%"],
+            ["Total Sugars", "16.8g", "34%"],
+            ["Protein", "1.7g", "3%"],
+            ["Vitamin C", "95.8mg", "106%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.18mg", "1%"],
+            ["Calcium", "72mg", "6%"],
+            ["Potassium", "325.8mg", "7%"],
+            ["Phosphorus", "25.2mg", "2%"]
+        ]
+    },
+    "6": {
+        "name": "pear",
+        "serving_size": "1 cup, slices (140g)",
+        "calories": "80",
+        "nutrition": [
+            ["Total Fat", "0.2g", "0%"],
+            ["Saturated Fat", "0.03g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.4mg", "0%"],
+            ["Total Carbohydrate", "21.3g", "8%"],
+            ["Dietary Fiber", "4.3g", "16%"],
+            ["Total Sugars", "13.7g", "27%"],
+            ["Protein", "0.5g", "1%"],
+            ["Vitamin C", "6mg", "7%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.25mg", "1%"],
+            ["Calcium", "12.6mg", "1%"],
+            ["Potassium", "162.4mg", "3%"],
+            ["Phosphorus", "16.8mg", "1%"]
+        ]
+    },
+    "7": {
+        "name": "pineapple",
+        "serving_size": "1 cup, chunks (165g)",
+        "calories": "83",
+        "nutrition": [
+            ["Total Fat", "0.2g", "0%"],
+            ["Saturated Fat", "0.01g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.7mg", "0%"],
+            ["Total Carbohydrate", "21.6g", "8%"],
+            ["Dietary Fiber", "2.3g", "8%"],
+            ["Total Sugars", "16.3g", "33%"],
+            ["Protein", "0.89g", "2%"],
+            ["Vitamin C", "78.9mg", "88%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.48mg", "3%"],
+            ["Calcium", "21.5mg", "2%"],
+            ["Potassium", "179.9mg", "4%"],
+            ["Phosphorus", "13.2mg", "1%"]
+        ]
+    },
+    "8": {
+        "name": "pomegranate",
+        "serving_size": "1 pomegranate (4 inch dia) (282g)",
+        "calories": "234",
+        "nutrition": [
+            ["Total Fat", "3.3g", "4%"],
+            ["Saturated Fat", "0.34g", "2%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "8.5mg", "0%"],
+            ["Total Carbohydrate", "52.7g", "19%"],
+            ["Dietary Fiber", "11.3g", "40%"],
+            ["Total Sugars", "38.5g", "77%"],
+            ["Protein", "4.7g", "9%"],
+            ["Vitamin C", "28.8mg", "32%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.85mg", "5%"],
+            ["Calcium", "28.2mg", "2%"],
+            ["Potassium", "665.5mg", "14%"],
+            ["Phosphorus", "101.5mg", "8%"]
+        ]
+    },
+    "9": {
+        "name": "watermelon",
+        "serving_size": "1 cup, balls (154g)",
+        "calories": "46",
+        "nutrition": [
+            ["Total Fat", "0.23g", "0%"],
+            ["Saturated Fat", "0.02g", "0%"],
+            ["Trans Fat", "0g", ""],
+            ["Cholesterol", "0mg", "0%"],
+            ["Sodium", "1.5mg", "0%"],
+            ["Total Carbohydrate", "11.6g", "4%"],
+            ["Dietary Fiber", "0.62g", "2%"],
+            ["Total Sugars", "9.5g", "19%"],
+            ["Protein", "0.94g", "2%"],
+            ["Vitamin C", "12.5mg", "14%"],
+            ["Vitamin D", "0mcg", "0%"],
+            ["Iron", "0.37mg", "2%"],
+            ["Calcium", "10.8mg", "1%"],
+            ["Potassium", "172.5mg", "4%"],
+            ["Phosphorus", "16.9mg", "1%"]
+        ]
+    }
+}
