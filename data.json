@@ -46,7 +46,12 @@
             ["Calcium", "7.5mg", "1%"],
             ["Potassium", "537mg", "11%"],
             ["Phosphorus", "33mg", "1%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "2": {
         "name": "grapes",
@@ -68,7 +73,12 @@
             ["Calcium", "12.9mg", "1%"],
             ["Potassium", "175.7mg", "4%"],
             ["Phosphorus", "9.2mg", "1%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "3": {
         "name": "kiwi",
@@ -90,7 +100,12 @@
             ["Calcium", "61.2mg", "5%"],
             ["Potassium", "561.6mg", "12%"],
             ["Phosphorus", "61.2mg", "5%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "4": {
         "name": "mango",
@@ -112,7 +127,12 @@
             ["Calcium", "18.2mg", "1%"],
             ["Potassium", "277.2mg", "6%"],
             ["Phosphorus", "23.1mg", "2%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "5": {
         "name": "orange",
@@ -134,7 +154,12 @@
             ["Calcium", "72mg", "6%"],
             ["Potassium", "325.8mg", "7%"],
             ["Phosphorus", "25.2mg", "2%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "6": {
         "name": "pear",
@@ -156,7 +181,12 @@
             ["Calcium", "12.6mg", "1%"],
             ["Potassium", "162.4mg", "3%"],
             ["Phosphorus", "16.8mg", "1%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "7": {
         "name": "pineapple",
@@ -178,7 +208,12 @@
             ["Calcium", "21.5mg", "2%"],
             ["Potassium", "179.9mg", "4%"],
             ["Phosphorus", "13.2mg", "1%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "8": {
         "name": "pomegranate",
@@ -200,7 +235,12 @@
             ["Calcium", "28.2mg", "2%"],
             ["Potassium", "665.5mg", "14%"],
             ["Phosphorus", "101.5mg", "8%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     },
     "9": {
         "name": "watermelon",
@@ -222,6 +262,11 @@
             ["Calcium", "10.8mg", "1%"],
             ["Potassium", "172.5mg", "4%"],
             ["Phosphorus", "16.9mg", "1%"]
-        ]
+        ],
+        "made_of": {
+            "percents": [85.73, 0.26, 13.84, 0.17, 0],
+            "labels": ["Water", "Protein", "Carbs", "Fat", "Alcohol"],
+            "colors": ["#689dde", "#026380", "#42ad8a", "#eeb753", "#d33350"]
+        }
     }
 }
